@@ -18,4 +18,4 @@ dev_dependencies:
 dependencies:
   analyzer: ^6.11.0
   custom_lint_builder: ^0.7.0
-  meta: ^1.16.0
+  meta: ^1.15.0
